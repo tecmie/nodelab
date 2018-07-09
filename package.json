@@ -1,0 +1,25 @@
+{
+  "name": "node_lab",
+  "version": "1.0.0",
+  "description": "Getting Started with the Express Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tecmie/nodelab.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "webpack"
+  ],
+  "author": "Andrew Miracle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tecmie/nodelab/issues"
+  },
+  "homepage": "https://github.com/tecmie/nodelab#readme"
+}
